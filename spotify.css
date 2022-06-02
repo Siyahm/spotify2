@@ -1,0 +1,239 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 82px;
+}
+.logo1{
+    width: 133px;
+    height: auto;
+    margin-left: 188px;
+    margin-top: 19px;
+    float: left;
+}
+.menusdiv1{
+    height: 100%;
+    width: 97px;
+    float: left;
+    margin-left: 520px;
+}
+.menu1{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    float: left;
+    margin-top: 33px;
+    margin-left: 15px;
+}
+.menu1:hover{
+    color: #1db954;
+}
+.menusdiv2{
+    height: 100%;
+    width: 97px;
+    float: left;
+}
+#line1{
+    color: white;
+    font-size: large;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 16px;
+
+}
+.area1{
+    background-color: #2941ab;
+    width: 100%;
+    height: 1170px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+.imgbbls{
+    position: absolute;
+    float: left;
+    margin-left: -458px;
+    margin-top: 35px;
+}
+.maintxt1{
+    color: #1ed760;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 135px;
+    letter-spacing: -0.04em !important;
+    font-weight: 900;
+    font-stretch: condensed;
+
+
+}
+.txtbox{
+    width: 787px;
+    text-indent: -16.3em;
+    transform: translate(138px, 43px);
+    margin-left: 361px;
+}
+.millions{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1ed760;
+    position: absolute;
+    margin-left: 506px;
+    font-size: large;
+    margin-top: -10px;
+}
+.getfree{
+    width: 215px;
+    height: 54px;
+    background-color: #1ed760   ;
+    color: #2941ab;
+    position: absolute;
+    margin-left: 626px;
+    border: none;
+    margin-top: 55px;    
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 56px;
+}
+.getfree:hover{
+    cursor: pointer;
+    background-color: #37e273;
+    transform: scale(1.02);
+}
+.footerbox{
+    background-color: black;
+    width: 100%;
+    height: 530px;
+    position: absolute;
+    float: left;
+    margin-top: 837px;
+    float: left;
+    overflow: hidden;
+}
+.footlogo{
+    width: 204px;
+    height: 367px;
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 101px;
+    float: left;
+}
+.foottxtgrp1{
+    width: 204px;
+    height: 367px;
+    position: absolute;
+    margin-top: 101px;
+    margin-left: 394px;
+    float: left;
+}
+.logo2{
+    width: 133px;
+    height: auto;
+
+}
+.foottxtgrp2{
+    width: 204px;
+    height: 367px;
+    position: absolute;
+    margin-top: 101px;
+    margin-left: 600px;
+    float: left;
+}
+.txtgrphead{
+    color: rgb(155, 154, 154);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    float: left;
+    margin-top: 20px;
+}
+.txtgrplnks{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.5;
+    float: left;
+    position: absolute;
+    margin-top: 45px;
+
+}
+.txtgrplnks a{
+    color: white;
+    text-decoration: none;
+}
+.txtgrplnks a:hover{
+    color: #1ed760;
+}
+.foottxtgrp3{
+    width: 204px;
+    height: 367px;
+    position: absolute;
+    margin-top: 101px;
+    margin-left: 804px;
+    float: left;
+}
+.sociallnks{
+    width: 236px;
+    height: 39px;
+    position: absolute;
+    margin-top: 101px;
+    margin-left: 1149px;
+    float: left;
+   
+}
+.socialicons{
+    height: 33px;
+    width: auto;
+    background-color: white;
+    margin-left: 10px;
+}
+.socialicons:hover{
+   background-color: #1db954;
+}
+.footlastdiv{
+    width: 100%;
+    height: 118px;
+    float: left;
+    margin-top: 416px;
+    position: absolute;
+    padding-left: 170px;
+
+}
+.navclass a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(114, 114, 114);
+    text-decoration: none;
+    float: left;
+    margin-top: 50px;
+    margin-left: 29px;
+    font-size: x-small;
+    font-weight: lighter;
+
+}
+.navclass a:hover{
+    color: #1db954;
+}
+.locale{
+    position: absolute;
+    float: left;
+    margin-left: 1050px;
+    width: 200px;
+    height: 100%;
+}
+.earth{
+    width: 12px;
+    height: auto;
+    float: left;
+}
+.language{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(114, 114, 114);;
+    text-decoration: none;
+    float: left;
+    margin-left: 4px;
+    font-size: x-small;
+    font-weight: lighter;
+}
+.language span:hover{
+    color: #20fa6c;
+    cursor: pointer;
+}
